@@ -1,7 +1,9 @@
 # Hallucinations-C2T
 
+Code for the paper "Tackling Hallucinations in Neural Chart Summarization", (to appear in INLG 2023)
 
-Training and inference code are adapted from huggingface T5 [documentation](https://huggingface.co/docs/transformers/model_doc/t5). 
+
+Training and inference code is adapted from huggingface T5 [documentation](https://huggingface.co/docs/transformers/model_doc/t5). 
 
 ## Data
 Contains chart summarization data from two sources

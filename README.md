@@ -11,7 +11,7 @@ Contains chart summarization data from two sources
 1) [Chart2text (c2t-small)](https://github.com/JasonObeid/Chart2Text)
 2) [Chart-to-text (c2t-big)](https://github.com/vis-nlp/Chart-to-text (statista data))
 
-## To reproduce the results, kindly see the table below: 
+## To reproduce the results on google colab, kindly see the table below: 
 
 | **Model Version**                                | **Model Repository**                             |
 |--------------------------------------------------|--------------------------------------------------|

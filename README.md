@@ -1,6 +1,6 @@
 # Hallucinations-C2T :chart_with_upwards_trend:
 
-Code for the paper "Tackling Hallucinations in Neural Chart Summarization" (Presented in INLG 2023).
+Code for the paper "Tackling Hallucinations in Neural Chart Summarization" (Presented at INLG 2023).
 
 
 Training and inference code is adapted from huggingface T5 [documentation](https://huggingface.co/docs/transformers/model_doc/t5). 

@@ -1,4 +1,4 @@
-# Hallucinations-C2T
+# Hallucinations-C2T :chart_with_upwards_trend:
 
 Code for the paper "Tackling Hallucinations in Neural Chart Summarization" (Presented in INLG 2023).
 

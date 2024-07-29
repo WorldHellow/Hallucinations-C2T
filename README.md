@@ -42,3 +42,24 @@ Kindly use the data splits in `data` folder.
 TO DO
 
 ## Citation 
+```
+@inproceedings{obaid-ul-islam-etal-2023-tackling,
+    title = "Tackling Hallucinations in Neural Chart Summarization",
+    author = "Obaid ul Islam, Saad  and
+      {\v{S}}krjanec, Iza  and
+      Dusek, Ondrej  and
+      Demberg, Vera",
+    editor = "Keet, C. Maria  and
+      Lee, Hung-Yi  and
+      Zarrie{\ss}, Sina",
+    booktitle = "Proceedings of the 16th International Natural Language Generation Conference",
+    month = sep,
+    year = "2023",
+    address = "Prague, Czechia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.inlg-main.30",
+    doi = "10.18653/v1/2023.inlg-main.30",
+    pages = "414--423",
+    abstract = "Hallucinations in text generation occur when the system produces text that is not grounded in the input. In this work, we tackle the problem of hallucinations in neural chart summarization. Our analysis shows that the target side of chart summarization training datasets often contains additional information, leading to hallucinations. We propose a natural language inference (NLI) based method to preprocess the training data and show through human evaluation that our method significantly reduces hallucinations. We also found that shortening long-distance dependencies in the input sequence and adding chart-related information like title and legends improves the overall performance.",
+}
+```

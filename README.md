@@ -38,9 +38,6 @@ Kindly use the data splits in `data` folder.
 | GPU                                              | Tesla T4 16 GB                                   |
 
 
-## More Chart-to-text Papers and Resources: 
-TO DO
-
 ## Citation 
 ```
 @inproceedings{obaid-ul-islam-etal-2023-tackling,

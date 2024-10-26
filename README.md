@@ -48,7 +48,7 @@ To reproduce the results, please use the data splits located in the `data` folde
 
 | **Parameter**                       | **Value**          |
 |-------------------------------------|--------------------|
-| Maximum input length                | 1024               |
+| Maximum input length                | 512              |
 | Maximum target length               | 512                |
 | Truncation                          | True               |
 | Padding                             | `max_length`       |
